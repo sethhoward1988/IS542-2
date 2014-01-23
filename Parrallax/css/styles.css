@@ -1,0 +1,10 @@
+body{background: #000;}
+.container { padding: 400px 200px; /* This gives our headings a bit of breathing room */ } 
+.js-background-1 {background:url(../images/background1.jpg) center 0 no-repeat transparent ;} 
+.js-background-2 {background:url(../images/background2.jpg) center 0 no-repeat transparent ; position: relative;}
+h2{color: #fff;}
+.xwing {
+	position: absolute;
+	top:100px;
+	right: 800px;
+}
